@@ -2,6 +2,10 @@
 
 A clean and responsive Contact Form built using **HTML5** and **CSS3**. This project focuses on practicing form styling, responsive layouts, CSS transitions, transform effects, and keyframe animations.
 
+## Live Demo
+
+🔗  https://dishantsuthar-tech.github.io/css-contact-form/
+
 ## Features
 
 - Responsive Layout
@@ -19,10 +23,6 @@ A clean and responsive Contact Form built using **HTML5** and **CSS3**. This pro
 - CSS Transitions
 - CSS Transforms
 - CSS Animations
-
-## Live Demo
-
-🔗 https://dishantsuthar0101.github.io/css-contact-form/
 
 ## Author
 
